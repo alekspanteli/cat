@@ -3,6 +3,6 @@ import { Link } from "gatsby"
 
 export default () => (
   <>
-    home, <Link to="test">tesasdasdt</Link>
+    home, <Link to="test">tesasdadfgfdsdt</Link>
   </>
 )
